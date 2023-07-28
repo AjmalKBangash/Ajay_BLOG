@@ -1,0 +1,11 @@
+.BlogName {
+  font-family: "Caprasimo", cursive;
+  font-size: 40px;
+  background-color: red;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+}
+.BlogDescription {
+  font-size: 20px;
+}
